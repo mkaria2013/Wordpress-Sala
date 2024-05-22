@@ -1,0 +1,2 @@
+wp-content/backups-dup-lite/*.zip filter=lfs diff=lfs merge=lfs -text
+wp-content/ai1wm-backups/*.wpress filter=lfs diff=lfs merge=lfs -text
